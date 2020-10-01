@@ -1,4 +1,4 @@
 # Drum-Kit
 A small musical website
 
-![alt text](rmpic.jpg)
+![alt text](rmpic.JPG)
